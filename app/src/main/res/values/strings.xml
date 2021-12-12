@@ -11,4 +11,5 @@
     <string name="error_email_pass_register">El usuario ya está registrado</string>
     <string name="email_pass_correct">Bienvenido</string>
     <string name="textView">Bienvenida/o a la App</string>
+    <string name="err_registro">Se ha producido un error en el proceso de registro.</string>
 </resources>
