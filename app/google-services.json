@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435872813072",
+    "project_id": "harenaapp",
+    "storage_bucket": "harenaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435872813072:android:8a8dfe2bc7e37927cf3a95",
+        "android_client_info": {
+          "package_name": "com.harenaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435872813072-9flp1dac8rn58nqal2vc4rqnvsc4vutj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harenaapp",
+            "certificate_hash": "7dc3e258f749ca51a955d0958793b80a3bc73d9c"
+          }
+        },
+        {
+          "client_id": "435872813072-6i2re19i2h72k65r97iq2bcqs02eu2ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIyyGTqIQHt9uVcTeq9hyn_CeIU3x1OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435872813072-6i2re19i2h72k65r97iq2bcqs02eu2ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

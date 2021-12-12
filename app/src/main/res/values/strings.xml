@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fundación Harena App</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="registerText">¿Eres nuevo en la App de la Fundación Harena?</string>
+    <string name="registerButton">Únete ahora</string>
+    <string name="err_email_pass">Los campos email y password no pueden estar vacíos</string>
+    <string name="error_email_pass">El email o el password son incorrectos</string>
+    <string name="error_email_pass_register">El usuario ya está registrado</string>
+    <string name="email_pass_correct">Bienvenido</string>
+    <string name="textView">Bienvenida/o a la App</string>
+</resources>
