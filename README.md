@@ -8,29 +8,29 @@ El informe se hace de manera manual, por lo que, me gustaría realizar una App q
 
 ### Login
 
-<img width="240px" src="./img/login.png">
+<img width="240px" src="./img/login.PNG">
 
 ### Registro
 
-<img width="240px" src="./img/registro.png">
+<img width="240px" src="./img/registro.PNG">
 
 ### Lista
-<img width="240px" src="./img/lista.png">
+<img width="240px" src="./img/lista.PNG">
 
 ### Pulsación Larga
-<img width="240px" src="./img/pulsacionLarga.png">
+<img width="240px" src="./img/pulsacionLarga.PNG">
 
 ### Menú
-<img width="240px" src="./img/menu.png">
+<img width="240px" src="./img/menu.PNG">
 
 ### Vista
-<img width="240px" src="./img/vista.png">
+<img width="240px" src="./img/vista.PNG">
 
 ### Crear
-<img width="240px" src="./img/crear.png">
+<img width="240px" src="./img/crear.PNG">
 
 ### Editar
-<img width="240px" src="./img/editar.png">
+<img width="240px" src="./img/editar.PNG">
 
 
 
