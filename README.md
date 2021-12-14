@@ -14,7 +14,7 @@ El informe se hace de manera manual, por lo que, me gustaría realizar una App q
 
 <img width="240px" src="./img/registro.png">
 
-#Lista
+### Lista
 <img width="240px" src="./img/lista.png">
 
 ### Pulsación Larga
@@ -23,10 +23,10 @@ El informe se hace de manera manual, por lo que, me gustaría realizar una App q
 ### Menú
 <img width="240px" src="./img/menu.png">
 
-###Vista
+### Vista
 <img width="240px" src="./img/vista.png">
 
-###Crear
+### Crear
 <img width="240px" src="./img/crear.png">
 
 ### Editar
